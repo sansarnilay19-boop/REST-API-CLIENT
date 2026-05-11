@@ -28,4 +28,4 @@ The deliverable for this task is a complete Java program that demonstrates API c
 
 Overall, this task provides hands-on experience with REST APIs, networking concepts, JSON processing, and external data integration in Java. It helps developers understand how real-world applications communicate with online services and manage data dynamically. By completing this task, learners improve their backend development skills and gain practical exposure to modern software development techniques widely used in the industry.
 
-##OUTPUT: 
+##OUTPUT: <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/a3420620-c82d-4b99-bb52-d850395dfb07" />
